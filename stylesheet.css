@@ -1,0 +1,51 @@
+/* Apply style to the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Apply style to the navigation menu */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Apply class 'content-section' to style multiple sections */
+.content-section {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Apply an id to style a specific element */
+#footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #ff6600;
+}
+
+/* Change box model properties */
+.content-section {
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888888;
+}
+
+/* Include an image */
+body {
+    background-image: url('Dbz_group.jpg');
+    background-size: cover;
+}
