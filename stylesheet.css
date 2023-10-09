@@ -46,6 +46,8 @@ a:hover {
 
 /* Include an image */
 body {
-    background-image: url('https://static.wikia.nocookie.net/p__/images/8/8e/Dbz_group.jpg/revision/latest?cb=20141002145405&path-prefix=protagonist');
-    background-size: cover;
+    background-image: url('C:\Users\patnw\Downloads\giphy.gif');
+    background-size: cover; /* Adjust the background size to cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
 }
+
